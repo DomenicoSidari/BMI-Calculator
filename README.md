@@ -1,7 +1,7 @@
 # BMI-Calculator
 
 # DISCLAIMER
-This work is inspired by "[Alex The Analyst](url)" on YouTube
+This work is inspired by "[Alex The Analyst]([url](https://www.youtube.com/@AlexTheAnalyst))" on YouTube
 
 # Description
 The attached code is a simple function to calculate the BMI (Body Mass Index) of an individual.
