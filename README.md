@@ -1,4 +1,4 @@
-# BMI-Calculator
+# BMI Calculator
 
 # DISCLAIMER
 This work is inspired by "[Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)" on YouTube whose video can be seen [Here](https://www.youtube.com/watch?v=ey1VNjU0YbM).  
